@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/brucristian/brucristian/blob/main/ChatGPT%20Image%2028%20oct%202025%2C%2001_44_49%20a.m..png" alt="Banner de Cristian Bru Cano" width="100%">
+</p>
+**
+
 # 👋 Hola, soy Cristian Bru Cano
 
 🎓 Estudiante de **Ingeniería en Sistemas** en la **Universidad de Cartagena**  
