@@ -1,41 +1,46 @@
-![Banner de Cristian Bru Cano](A_digital_graphic_banner_features_Cristian_Bru_Can.png)
+# 👋 Hola, soy Cristian Bru Cano
 
-
-# 👋 ¡Hola! Soy **Cristian Bru Cano**
-
-🎓 **Estudiante de Ingeniería en Sistemas** – Universidad de Cartagena  
-💻 Apasionado por la programación, la lógica y la creación de proyectos útiles y estéticos.
+🎓 Estudiante de **Ingeniería en Sistemas** en la **Universidad de Cartagena**  
+💻 En formación con experiencia en **C++** y **Java (nivel básico)**  
+🧩 Me gusta aplicar mis conocimientos en **talleres universitarios** y **proyectos personales**
 
 ---
 
-## 💡 Sobre mí
-Soy una persona curiosa y perseverante. Me motiva aprender constantemente y combinar la **lógica** de la ingeniería con la **creatividad** del arte.  
-Mi enfoque es construir soluciones simples, elegantes y funcionales.
+### 🚀 Sobre mí
+Soy una persona apasionada por la tecnología, con interés en aprender constantemente y desarrollar soluciones útiles.  
+Me motiva crear proyectos que integren lógica, creatividad y funcionalidad real.
 
 ---
 
-## ⚙️ Habilidades Técnicas
-- 🧩 **C++** – Desarrollo de programas estructurados y orientados a objetos  
-- ☕ **Java (nivel básico)** – Fundamentos y práctica universitaria  
-- 🌿 **Git & GitHub** – Control de versiones y trabajo colaborativo  
-- 🧠 **Pensamiento lógico** y resolución de problemas
+### 💼 Habilidades
+- Programación en **C++**
+- Conocimientos básicos en **Java**
+- Manejo de **Git y GitHub**
+- Resolución de problemas y pensamiento lógico
+- Trabajo en equipo y adaptación al aprendizaje
 
 ---
 
-## 🚀 En desarrollo
-📘 Fortaleciendo conocimientos en:
-- Estructuras de datos  
-- Programación orientada a objetos  
-- Fundamentos del desarrollo de software  
+### 🧠 En desarrollo
+Actualmente sigo reforzando mis habilidades en estructuras de datos, programación orientada a objetos y fundamentos del desarrollo de software.
 
 ---
 
-## 🎯 Intereses
-🏋️ **Gimnasio** – Constancia y mejora personal  
-🎨 **Dibujo** – Creatividad y atención al detalle  
+### ⚙️ Estadísticas de GitHub
+![Estadísticas de Cristian](https://github-readme-stats.vercel.app/api?username=brucristian&show_icons=true&theme=default)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=brucristian&layout=compact&theme=default)
 
 ---
 
-## 📊 Estadísticas
-![Estadísticas de Cristian](https://github-readme-stats.vercel.app/api?username=cristianbru&show_icons=true&theme=blue_navy)
-![Lenguajes más usados](https://github-rea)
+### 🎯 Intereses personales
+🏋️‍♂️ Gimnasio – Disciplina y constancia  
+🎨 Dibujo – Creatividad y atención al detalle
+
+---
+
+### 📫 Contacto
+📧 **cristianbruc11@gmail.com**
+
+---
+
+> “Si puedes imaginarlo, puedes programarlo. Crear con ojos de artista.” 🎨💻
