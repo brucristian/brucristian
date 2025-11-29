@@ -1,34 +1,31 @@
 # 🎬 Proyecto Video - Cristian Alejandro Bru Cano
 
-## 👋 ¡Hola! Soy Cristian Alejandro Bru Cano
-Estudiante de **Ingeniería en Sistemas** en la **Universidad de Cartagena**, apasionado por la programación, el análisis y la creatividad.  
-Mi lema: **"crear con ojo de artista"** 🎨  
-
-Este proyecto es un ejemplo de cómo combinar **información personal**, **habilidades en programación** y **representación visual** de tus conocimientos en un README, con gráficos que muestran tu dominio en diferentes lenguajes.  
-
----
-
-## 💻 Lenguajes y Nivel de Dominio
-
-| Lenguaje | Nivel |
-|----------|-------|
-| C++      | █████████░░ 8/10 |
-| Java     | ████░░░░░░ 4/10 |
-| HTML     | █████░░░░░ 5/10 |
-
-> Estos gráficos representan de forma visual mis conocimientos en cada lenguaje.  
+## 👋 Hola, soy Cristian
+Soy **Cristian Alejandro Bru Cano**, estudiante de **Ingeniería en Sistemas** en la **Universidad de Cartagena**.  
+Me apasiona **programar, analizar sistemas y crear con ojos de artista** 🎨.  
+Me gusta combinar **creatividad, lógica y visualización** para que mis proyectos no solo funcionen, sino que se vean profesionales.
 
 ---
 
-## 📝 Sobre Este Proyecto
-- Contiene mi información personal y profesional.
-- Incluye **gráficos visuales** de dominio en lenguajes.
-- Puede servir como **presentación de portafolio** en GitHub.
-- Se puede complementar con **código, imágenes o videos** asociados.  
+## 🏆 Mi Lema
+> "Crear con ojo de artista" ✨  
 
 ---
 
-## 📌 Cómo Usarlo
-1. Clona el repositorio:  
-```bash
-git clone https://github.com/TU_USUARIO/ProyectoVideo.git
+## 💻 Lenguajes de Programación y Nivel de Dominio
+
+### C++
+◉◉◉◉◉◉◉◉◯ 8/10
+
+shell
+Copiar código
+### Java
+◉◉◉◉◯◯◯◯◯ 4/10
+
+shell
+Copiar código
+### HTML
+◉◉◉◉◉◯◯◯◯ 5/10
+
+yaml
+Copiar código
