@@ -1,4 +1,4 @@
-# 🎬 Proyecto Video - Cristian Alejandro Bru Cano
+# 🎬 Cristian Alejandro Bru Cano
 
 ## 👋 Hola, soy Cristian
 Soy **Cristian Alejandro Bru Cano**, estudiante de **Ingeniería en Sistemas** en la **Universidad de Cartagena**.  
