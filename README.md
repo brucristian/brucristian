@@ -17,15 +17,10 @@ Me gusta combinar **creatividad, lógica y visualización** para que mis proyect
 ### C++
 ◉◉◉◉◉◉◉◉◯ 8/10
 
-shell
-Copiar código
 ### Java
 ◉◉◉◉◯◯◯◯◯ 4/10
 
-shell
-Copiar código
 ### HTML
 ◉◉◉◉◉◯◯◯◯ 5/10
 
-yaml
-Copiar código
+
