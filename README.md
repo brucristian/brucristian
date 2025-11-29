@@ -1,75 +1,34 @@
-🌟 Cristian Alejandro Bruccano
+# 🎬 Proyecto Video - Cristian Alejandro Bru Cano
 
+## 👋 ¡Hola! Soy Cristian Alejandro Bru Cano
+Estudiante de **Ingeniería en Sistemas** en la **Universidad de Cartagena**, apasionado por la programación, el análisis y la creatividad.  
+Mi lema: **"crear con ojo de artista"** 🎨  
 
+Este proyecto es un ejemplo de cómo combinar **información personal**, **habilidades en programación** y **representación visual** de tus conocimientos en un README, con gráficos que muestran tu dominio en diferentes lenguajes.  
 
+---
 
-🎓 Estudiante de Ingeniería – Universidad de Cartagena
-💻 Apasionado por C++ y el desarrollo de software
-📧 cristianbruce11@gmail.com
+## 💻 Lenguajes y Nivel de Dominio
 
-✨ Sobre mí
+| Lenguaje | Nivel |
+|----------|-------|
+| C++      | █████████░░ 8/10 |
+| Java     | ████░░░░░░ 4/10 |
+| HTML     | █████░░░░░ 5/10 |
 
-Hola, soy Cristian Alejandro Bruccano, un estudiante apasionado por la programación, especialmente por C++, mi lenguaje favorito por su velocidad, control, potencia y lo mucho que me reta a mejorar mi lógica.
+> Estos gráficos representan de forma visual mis conocimientos en cada lenguaje.  
 
-Me gusta resolver problemas, crear proyectos pequeños y seguir aprendiendo cada día para convertirme en un excelente desarrollador.
+---
 
-🔥 ¿Por qué amo C++?
+## 📝 Sobre Este Proyecto
+- Contiene mi información personal y profesional.
+- Incluye **gráficos visuales** de dominio en lenguajes.
+- Puede servir como **presentación de portafolio** en GitHub.
+- Se puede complementar con **código, imágenes o videos** asociados.  
 
-✔️ Me ayuda a pensar mejor como programador
-✔️ Es rápido y eficiente
-✔️ Te enseña cómo funcionan las cosas de verdad dentro del computador
-✔️ Me reta a ser más preciso y cuidadoso
-✔️ Me motiva a aprender algoritmos y estructuras de datos
+---
 
-🧠 Tecnologías que uso
-
-
-
-
-
-
-
-
-📊 Mis estadísticas (se actualizan solas)
-🧩 Lenguajes que más uso
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
-📈 Estadísticas del perfil
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-🔵 Estadística especial de C++ (mi lenguaje favorito)
-
-Esta gráfica muestra cuánto contribuye C++ en tu perfil (GitHub la genera automáticamente).
-
-![C++ Focus](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight)
-
-🎨 Estadísticas personalizadas
-📚 Cómics / Proyectos creados
-
-(Puedes cambiar el número cuando quieras)
-
-![Comics](https://img.shields.io/badge/Cómics%20creados-12-brightgreen?style=for-the-badge)
-
-💡 Nivel de motivación por C++
-![Motivation](https://img.shields.io/badge/Motivación%20por%20C++-100%25-blue?style=for-the-badge)
-
-📁 ¿Qué encontrarás en mis repos?
-
-Proyectos en C++
-
-Ejercicios de lógica y POO
-
-Pruebas de Java
-
-Retos, algoritmos y estructuras
-
-Apuntes y aprendizaje personal
-
-📦 Clona mis proyectos
-git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git
-
-💬 Contacto
-
-📧 cristianbruce11@gmail.com
-
-Si quieres colaborar, aprender juntos o compartir ideas, ¡escríbeme!
+## 📌 Cómo Usarlo
+1. Clona el repositorio:  
+```bash
+git clone https://github.com/TU_USUARIO/ProyectoVideo.git
