@@ -18,7 +18,7 @@ Me gusta combinar **creatividad, lógica y visualización** para que mis proyect
 ◉◉◉◉◉◉◉◉◯ 8/10
 
 ### Java
-◉◉◉◉◯◯◯◯◯ 4/10
+◉◉◉◉◯◯◯◯◯ 5/10
 
 ### HTML
 ◉◉◉◉◉◯◯◯◯ 5/10
