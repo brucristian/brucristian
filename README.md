@@ -48,11 +48,11 @@ Mi espada es la lógica, mi escudo es la estética, y cada proyecto es un santua
 ## 📊 *Estadísticas de Aventura*
 
 ```mermaid
-pie title Distribución del Stack - Cristian Bru
-    "C++ (Lógica de Héroe)" : 35
-    "Java (Sistemas & Backend)" : 30
-    "React & JS (Frontend)" : 25
-    "TypeScript & Otros" : 10
+pie title Distribucion del Stack
+    "C++" : 35
+    "Java" : 30
+    "React y JS" : 25
+    "Otros" : 10
 
 
 
