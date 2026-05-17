@@ -45,8 +45,10 @@ Mi espada es la lógica, mi escudo es la estética, y cada proyecto es un santua
 
 ### 🔵 *Estadisticas*  
 
+## 📊 *Estadísticas de Aventura*
+
 ```mermaid
-pie title Stack Tecnológico - Cristian Bru
+pie title Distribución del Stack - Cristian Bru
     "C++ (Lógica de Héroe)" : 35
     "Java (Sistemas & Backend)" : 30
     "React & JS (Frontend)" : 25
