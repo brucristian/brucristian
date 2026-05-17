@@ -6,7 +6,7 @@
 <br/>
 
 <!-- NOMBRE COMPLETO EN DOS LÍNEAS -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=99999&color=FFE066&background=00000000&center=true&vCenter=true&multiline=true&width=680&height=70&lines=CRISTIAN+BRU;BRU+CANO" alt="Nombre" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=99999&color=FFE066&background=00000000&center=true&vCenter=true&multiline=true&width=680&height=70&lines=+BRU;BRU+CANO" alt="Nombre" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2500&pause=1000&color=7DD3A8&background=00000000&center=true&vCenter=true&width=680&height=30&lines=AVENTURERO+EN+ING.+SISTEMAS+%C2%B7+UDeC" alt="Subtitulo" />
 
