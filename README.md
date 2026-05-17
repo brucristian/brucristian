@@ -75,11 +75,5 @@
 ---
 
 <div align="center">
-
-*"Crear con ojo de artista"* ✨
-
-*"Que tu código sea tan valiente como un héroe y tan sabio como una princesa."*
-
-**★ ★ ★**
-
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=500&color=FFE066&background=0A162800&center=true&vCenter=true&multiline=true&width=500&height=120&lines=C%2B%2B+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+80%25;Java+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+70%25;JavaScript+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+60%25;React+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+60%25;TypeScript+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+40%25" alt="Stats" />
 </div>
