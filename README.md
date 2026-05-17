@@ -1,5 +1,5 @@
-# 🛡️ Cristian Alejandro Bru Cano
-## Estudiante de Ingeniería en Sistemas | Universidad de Cartagena
+# 🗡️ Cristian Alejandro Bru Cano  
+## *Aventurero en Ingeniería en Sistemas* | Universidad de Cartagena  
 
 <p align="center">
   <img src="https://img.shields.io/badge/LEVEL-UdeC-green?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
@@ -9,49 +9,59 @@
 
 ---
 
-## 💻 Perfil Profesional
-Soy **Cristian Alejandro Bru Cano**. Me especializo en el **análisis de sistemas** y el desarrollo de software bajo la premisa de **"Crear con ojo de artista"** 🎨. Mi enfoque integra la lógica de ingeniería con una visualización estética para entregar productos funcionales y profesionales.
+## 🌱 *Perfil del Héroe*  
+
+Soy **Cristian Alejandro Bru Cano**, un viajero del código que recorre el reino de la **Ingeniería en Sistemas** con la filosofía de **“Crear con ojo de artista”** 🎨.  
+Mi espada es la lógica, mi escudo es la estética, y cada proyecto es un santuario por descubrir. Integro la precisión de la ingeniería con la visión del arte para forjar soluciones funcionales, elegantes y con alma.
 
 ---
 
-## 🎒 Inventario Técnico (Skills)
+## 🎒 *Inventario Técnico*  
 
-### 🗡️ Main Stack
-* **C++:** ◉◉◉◉◉◉◉◉◯◯ (8/10)
-* **React.js:** ◉◉◉◉◉◉◯◯◯◯ (6/10)
-* **JavaScript (ES6+):** ◉◉◉◉◉◉◯◯◯◯ (6/10)
+### ⚔️ *Espada Principal*  
+| Tecnología | Dominio |
+|------------|---------|
+| **C++** | ████████░░ 8/10 |
+| **React.js** | ██████░░░░ 6/10 |
+| **JavaScript (ES6+)** | ██████░░░░ 6/10 |
 
-### 🛡️ Secondary Stack
-* **HTML5 / CSS3:** ◉◉◉◉◉◉◯◯◯◯ (6/10)
-* **Java:** ◉◉◉◉◉◯◯◯◯◯ (5/10)
-* **TypeScript:** ◉◉◉◉◯◯◯◯◯◯ (4/10)
-
----
-
-## 🗺️ Atributos (Stats)
-
-| Elemento | Habilidad | Nivel |
-| :--- | :--- | :--- |
-| 🔥 **Lógica** | Desarrollo en C++ | 80/100 |
-| 💧 **Frontend** | React & Interfaces | 60/100 |
-| 🍃 **Estructura**| Arquitectura Java | 50/100 |
-| ⚡ **Sincronía**| TypeScript | 40/100 |
+### 🛡️ *Escudo Secundario*  
+| Tecnología | Dominio |
+|------------|---------|
+| **HTML5 / CSS3** | ██████░░░░ 6/10 |
+| **Java** | █████░░░░░ 5/10 |
+| **TypeScript** | ████░░░░░░ 4/10 |
 
 ---
 
-## 🎨 Pilares de Diseño
-1.  **Armonía Visual:** Interfaces limpias y modernas.
-2.  **Arquitectura Lógica:** Código estructurado y escalable.
-3.  **Atención al Detalle:** Balance entre funcionalidad y estética.
+## 🧭 *Estadísticas del Guerrero*  
+
+| Atributo | Habilidad | Nivel |
+|----------|-----------|-------|
+| 🔥 *Fuego de la Lógica* | Desarrollo en C++ | 80/100 |
+| 💧 *Fuente del Frontend* | React & Interfaces | 60/100 |
+| 🌿 *Aliento de la Estructura* | Arquitectura Java | 50/100 |
+| ⚡ *Rayo de la Sincronía* | TypeScript | 40/100 |
 
 ---
 
-## 📟 Información de Contacto
-* **Ubicación:** 📍 Cartagena, Colombia
-* **Formación:** Ingeniería en Sistemas (UdeC)
-* **Intereses:** Programación competitiva, UI/UX, Desarrollo Web.
+## 🗝️ *Tres Piedras Espirituales del Diseño*  
+
+1.  **Armonía Visual** — Interfaces tan limpias como el agua del Lago Hylia.  
+2.  **Arquitectura Lógica** — Código estructurado como las mazmorras más sabias.  
+3.  **Atención al Detalle** — El balance perfecto entre funcionalidad y estética, como la Espada Maestra entre la luz y la sombra.
 
 ---
+
+## 📡 *Mapa de Contacto*  
+
+- **Ubicación:** 📍 Cartagena, Colombia — *Costa de los Tesoros*  
+- **Formación:** Ingeniería en Sistemas — *Universidad de Cartagena*  
+- **Intereses:** Programación competitiva 🏁, UI/UX 🎭, Desarrollo Web 🌐  
+
+---
+
 <p align="center">
-  <i>"Crear con ojo de artista" — ✨</i>
+  <i>“Crear con ojo de artista” — ✨</i><br/>
+  <i>“Que tu código sea tan valiente como un héroe y tan sabio como una princesa.”</i>
 </p>
