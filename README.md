@@ -34,14 +34,39 @@ Mi espada es la lógica, mi escudo es la estética, y cada proyecto es un santua
 
 ---
 
-## 🧭 *Estadísticas del Guerrero*  
+## 🧭 *Estadísticas del Guerrero (Gráfico de Pastel)*  
 
-| Atributo | Habilidad | Nivel |
-|----------|-----------|-------|
-| 🔥 *Fuego de la Lógica* | Desarrollo en C++ | 80/100 |
-| 💧 *Fuente del Frontend* | React & Interfaces | 60/100 |
-| 🌿 *Aliento de la Estructura* | Arquitectura Java | 50/100 |
-| ⚡ *Rayo de la Sincronía* | TypeScript | 40/100 |
+| Atributo | Habilidad | Nivel | 🥧 Distribución |
+|----------|-----------|-------|----------------|
+| 🔥 *Fuego Lógico* | C++ | 80/100 | `🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜` 80% |
+| 💧 *Frontend Fluido* | React | 60/100 | `🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜` 60% |
+| 🌿 *Estructura Verde* | Java | 50/100 | `🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜` 50% |
+| ⚡ *Sincronía Eléctrica* | TS | 40/100 | `🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜` 40% |
+
+### 🔵 *Gráfico Circular Unificado (Total de Habilidades)*  
+Estadísticas 
+┌─────────────────────────────┐
+│ ████████████████████░░░░ │
+│ 🟥 C++ : 34% (80) │
+│ 🟦 React : 26% (60) │
+│ 🟩 Java : 21% (50) │
+│ 🟨 TypeScript : 17% (40) │
+└─────────────────────────────┘
+
+▄█████████▄
+██ █████████ ██
+██ █████████ ██
+█ █████████ █
+█ █████████ █
+██ █████████ ██
+██ █████████ ██
+▀█████████▀
+
+🟥 34% C++ | ████████████████░░░░░░░░░░
+🟦 26% React | ████████████░░░░░░░░░░░░░░
+🟩 21% Java | ██████████░░░░░░░░░░░░░░░░
+🟨 17% TS | ████████░░░░░░░░░░░░░░░░░░
+
 
 ---
 
@@ -49,7 +74,7 @@ Mi espada es la lógica, mi escudo es la estética, y cada proyecto es un santua
 
 1.  **Armonía Visual** — Interfaces tan limpias como el agua del Lago Hylia.  
 2.  **Arquitectura Lógica** — Código estructurado como las mazmorras más sabias.  
-3.  **Atención al Detalle** — El balance perfecto entre funcionalidad y estética, como la Espada Maestra entre la luz y la sombra.
+3.  **Atención al Detalle** — El equilibrio perfecto entre funcionalidad y estética, como la Espada Maestra entre luz y sombra.
 
 ---
 
@@ -65,3 +90,5 @@ Mi espada es la lógica, mi escudo es la estética, y cada proyecto es un santua
   <i>“Crear con ojo de artista” — ✨</i><br/>
   <i>“Que tu código sea tan valiente como un héroe y tan sabio como una princesa.”</i>
 </p>
+
+
