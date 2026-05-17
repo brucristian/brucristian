@@ -37,13 +37,13 @@ Integro la precisión de la ingeniería con la visión del arte para forjar solu
 
 ## 📊 *Estadísticas de Aventura (XP)*
 
-**Lógica y Estructura (C++)** ![45%](https://progress-bar.dev/80/?title=Mastery&color=FF4500)
+**Lógica y Estructura (C++)** <progress value="80" max="100" style="width:100%"></progress> **80%**
 
-**Sistemas y Backend (Java)** ![30%](https://progress-bar.dev/70/?title=Mastery&color=32CD32)
+**Sistemas y Backend (Java)** <progress value="70" max="100" style="width:100%"></progress> **70%**
 
-**Desarrollo Frontend (JS/React)** ![20%](https://progress-bar.dev/60/?title=Mastery&color=1E90FF)
+**Desarrollo Frontend (JS/React)** <progress value="60" max="100" style="width:100%"></progress> **60%**
 
-**Otros Atributos (TS/UI)** ![5%](https://progress-bar.dev/40/?title=Mastery&color=FFD700)
+**Otros Atributos (TS/UI)** <progress value="40" max="100" style="width:100%"></progress> **40%**
 
 ---
 
