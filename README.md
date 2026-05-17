@@ -75,11 +75,11 @@
 ```
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brucristian&show_icons=true&theme=midnight-purple&title_color=ffe066&icon_color=c9a227&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&rank_icon=github" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=brucristian&show_icons=true&theme=midnight-purple&title_color=ffe066&icon_color=c9a227&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&rank_icon=github" alt="GitHub Stats" />
 
 &nbsp;&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucristian&layout=compact&theme=midnight-purple&title_color=ffe066&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&langs_count=6" alt="Top Langs" />
+<img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=brucristian&layout=compact&theme=midnight-purple&title_color=ffe066&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&langs_count=6" alt="Top Langs" />
 
 </div>
 
