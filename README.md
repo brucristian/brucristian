@@ -73,12 +73,13 @@
 🌐  Desarrollo Frontend  (JS/React)██████░░░░  60 XP
 🎨  UI / TS / Otros                ████░░░░░░  40 XP
 ```
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=brucristian&show_icons=true&theme=midnight-purple&title_color=ffe066&icon_color=c9a227&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&hide_border=false&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=brucristian&show_icons=true&theme=midnight-purple&title_color=ffe066&icon_color=c9a227&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&rank_icon=github" alt="GitHub Stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucristian&layout=compact&theme=midnight-purple&title_color=ffe066&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&langs_count=6&hide=html" alt="Top Langs" />
+&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucristian&layout=compact&theme=midnight-purple&title_color=ffe066&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&langs_count=6" alt="Top Langs" />
 
 </div>
 
