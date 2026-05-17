@@ -83,8 +83,6 @@
 
 </div>
 
-> ⚠️ **Nota:** Cambia `cristian-bru` por tu username real de GitHub en las URLs de stats arriba.
-
 ---
 
 ## 🗝️ Tres Piedras Espirituales
