@@ -43,21 +43,15 @@ Mi espada es la lógica, mi escudo es la estética, y cada proyecto es un santua
 | 🌿 *Estructura Verde* | Java | 50/100 | `🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜` 50% |
 | ⚡ *Sincronía Eléctrica* | TS | 40/100 | `🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜` 40% |
 
-### 🔵 *Gráfico Circular Unificado (Total de Habilidades)*  
-Estadísticas 
-┌─────────────────────────────┐
-│ ████████████████████░░░░ │
-│ 🟥 C++ : 34% (80) │
-│ 🟦 React : 26% (60) │
-│ 🟩 Java : 21% (50) │
-│ 🟨 TypeScript : 17% (40) │
-└─────────────────────────────┘
+### 🔵 *Estadisticas*  
 
-pie title Dominio de Tecnologías - Cristian Bru
-    "C++" : 45
-    "React & JavaScript" : 30
-    "Java" : 15
+```mermaid
+pie title Stack Tecnológico - Cristian Bru
+    "C++ (Lógica de Héroe)" : 35
+    "Java (Sistemas & Backend)" : 30
+    "React & JS (Frontend)" : 25
     "TypeScript & Otros" : 10
+
 
 
 
