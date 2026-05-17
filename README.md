@@ -1,32 +1,51 @@
-# ⚔️ Cristian Alejandro Bru Cano ⚔️
+<div align="center">
 
-### *"Crear con ojo de artista"* ✨
+<!-- TRIFUERZA ANIMADA -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=99999&color=FFE066&background=0A162800&center=true&vCenter=true&width=60&height=55&lines=%E2%96%B3%0A%E2%96%B3%E2%96%B3" alt="Triforce" />
 
-**Aventurero en Ingeniería en Sistemas · Universidad de Cartagena**
+<!-- TITULO ANIMADO -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FFE066&background=0A162800&center=true&vCenter=true&width=620&height=40&lines=CRISTIAN+ALEJANDRO+BRU+CANO" alt="Nombre" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2000&pause=800&color=7DD3A8&background=0A162800&center=true&vCenter=true&width=620&height=30&lines=AVENTURERO+EN+ING.+SISTEMAS+%C2%B7+UDeC" alt="Subtitulo" />
 
-![Level](https://img.shields.io/badge/🏰_NIVEL-UdeC-c9a227?style=for-the-badge&labelColor=1a2e55)
-![HP](https://img.shields.io/badge/❤_HP-MAX-8b1a1a?style=for-the-badge&labelColor=2a0a0a)
-![Role](https://img.shields.io/badge/🛡_ROL-Systems_Engineer-1a3a8b?style=for-the-badge&labelColor=0a1a2a)
+<!-- BADGES ZELDA -->
+<img src="https://img.shields.io/badge/%E2%9A%94_NIVEL-UDeC-c9a227?style=for-the-badge&labelColor=0a1628&color=c9a227" />
+<img src="https://img.shields.io/badge/%E2%99%A5_HP-MAX-8b1a1a?style=for-the-badge&labelColor=0a1628&color=8b1a1a" />
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1_ROL-SYSTEMS+ENGINEER-1a3a8b?style=for-the-badge&labelColor=0a1628&color=1a3a8b" />
 
 </div>
 
 ---
 
-## 🌿 Perfil del Héroe
+```
+ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ ░  ◈  PERFIL DEL HÉROE                    ░
+ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ > Clase    : Ingeniero en Sistemas
+ > Guild    : Universidad de Cartagena
+ > Filosofía: "Crear con ojo de artista" ✨
+ > Espada   : Lógica   |  Escudo: Estética
+ > Origen   : Cartagena, Colombia 📍
+ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
 
-> Soy un viajero del código que recorre el reino de la **Ingeniería en Sistemas** con la filosofía de **"Crear con ojo de artista"** 🎨.
->
-> Integro la precisión de la ingeniería con la visión del arte para forjar soluciones funcionales y elegantes. Mi espada es la lógica y mi escudo es la estética.
+<!-- TYPING: frase filosofia -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=4000&pause=1500&color=3A6A4A&background=0A162800&center=true&vCenter=true&width=620&height=28&lines=%3E+Integrando+precision+e+ingenieria+con+vision+artistica...;%3E+Mi+espada+es+la+logica%2C+mi+escudo+la+estetica...;%3E+Forjando+soluciones+funcionales+y+elegantes..." alt="filosofia" />
+</div>
 
 ---
 
 ## ⚔️ Inventario Técnico
 
+<!-- SKILL ICONS -->
+<div align="center">
+
 ### ⚔ Armas Principales
 
-| Tecnología | Nivel | Dominio |
+<img src="https://skillicons.dev/icons?i=cpp,java,js&theme=dark" />
+
+| Tecnología | Nivel | XP |
 |:---|:---:|:---|
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | 8/10 | `████████░░` |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | 7/10 | `███████░░░` |
@@ -34,33 +53,62 @@
 
 ### 🛡 Equipamiento Secundario
 
-| Tecnología | Nivel | Dominio |
+<img src="https://skillicons.dev/icons?i=react,html,css,ts&theme=dark" />
+
+| Tecnología | Nivel | XP |
 |:---|:---:|:---|
 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | 6/10 | `██████░░░░` |
 | ![HTML5](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white) | 6/10 | `██████░░░░` |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | 4/10 | `████░░░░░░` |
 
----
-
-## 📊 Estadísticas de Aventura (XP)
-
-⚔  Lógica y Estructura (C++)      ████████░░  80%
-☕  Sistemas y Backend (Java)       ███████░░░  70%
-🌐  Desarrollo Frontend (JS/React)  ██████░░░░  60%
-🎨  Otros Atributos (TS/UI)         ████░░░░░░  40%
+</div>
 
 ---
 
-## 🗝️ Tres Piedras Espirituales del Diseño
+## 📊 Estadísticas de Aventura
+
+```
+⚔  Lógica y Estructura  (C++)     ████████░░  80 XP
+☕  Sistemas y Backend   (Java)    ███████░░░  70 XP
+🌐  Desarrollo Frontend  (JS/React)██████░░░░  60 XP
+🎨  UI / TS / Otros                ████░░░░░░  40 XP
+```
+
+<!-- GITHUB STATS -->
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cristian-bru&show_icons=true&theme=midnight-purple&title_color=ffe066&icon_color=c9a227&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-bru&layout=compact&theme=midnight-purple&title_color=ffe066&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&langs_count=6" alt="Top Langs" />
+
+</div>
+
+> ⚠️ **Nota:** Cambia `cristian-bru` por tu username real de GitHub en las URLs de stats arriba.
+
+---
+
+## 🗝️ Tres Piedras Espirituales
 
 <div align="center">
 
 | 💚 Piedra del Bosque | 💙 Piedra del Fuego | ❤️ Piedra del Agua |
 |:---:|:---:|:---:|
 | **Armonía Visual** | **Arquitectura Lógica** | **Atención al Detalle** |
-| Interfaces limpias y modernas | Código estructurado, escalable y eficiente | Equilibrio perfecto entre funcionalidad y estética |
+| Interfaces limpias y modernas | Código estructurado y escalable | Equilibrio entre funcionalidad y estética |
 
 </div>
+
+---
+
+## 🔥 Racha de Aventura
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cristian-bru&theme=dark&background=0A1628&border=c9a227&stroke=c9a227&ring=ffe066&fire=ff6600&currStreakNum=ffe066&sideNums=7dd3a8&currStreakLabel=c9a227&sideLabels=7dd3a8&dates=3a6a4a&hide_border=false" alt="Streak Stats" />
+
+</div>
+
+> ⚠️ **Nota:** Cambia `cristian-bru` por tu username real de GitHub.
 
 ---
 
@@ -70,10 +118,7 @@
 
 📍 **Cartagena, Colombia** &nbsp;·&nbsp; 🏛 **Universidad de Cartagena** &nbsp;·&nbsp; 🏁 **Prog. Competitiva** &nbsp;·&nbsp; 🎭 **UI/UX** &nbsp;·&nbsp; 🌐 **Desarrollo Web**
 
-</div>
+<!-- TYPING FOOTER -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=3500&pause=1000&color=C9A227&background=0A162800&center=true&vCenter=true&width=620&height=50&lines=%3E+%22Crear+con+ojo+de+artista%22+%E2%9C%A8;%3E+Tu+codigo%3A+valiente+como+heroe%2C+sabio+como+princesa.;%3E+%E2%98%85+%E2%98%85+%E2%98%85+GAME+NOT+OVER+%E2%98%85+%E2%98%85+%E2%98%85" alt="footer" />
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=500&color=FFE066&background=0A162800&center=true&vCenter=true&multiline=true&width=500&height=120&lines=C%2B%2B+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+80%25;Java+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+70%25;JavaScript+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+60%25;React+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+60%25;TypeScript+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+40%25" alt="Stats" />
 </div>
