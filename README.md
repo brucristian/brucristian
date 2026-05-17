@@ -79,7 +79,7 @@
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=cristian-bru&show_icons=true&theme=midnight-purple&title_color=ffe066&icon_color=c9a227&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-bru&layout=compact&theme=midnight-purple&title_color=ffe066&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&langs_count=6" alt="Top Langs" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucristian&layout=compact&theme=midnight-purple&title_color=ffe066&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&langs_count=6" alt="Top Langs" />
 
 </div>
 
@@ -104,11 +104,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cristian-bru&theme=dark&background=0A1628&border=c9a227&stroke=c9a227&ring=ffe066&fire=ff6600&currStreakNum=ffe066&sideNums=7dd3a8&currStreakLabel=c9a227&sideLabels=7dd3a8&dates=3a6a4a&hide_border=false" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=brucristian&theme=dark&background=0A1628&border=c9a227&stroke=c9a227&ring=ffe066&fire=ff6600&currStreakNum=ffe066&sideNums=7dd3a8&currStreakLabel=c9a227&sideLabels=7dd3a8&dates=3a6a4a&hide_border=false" alt="Streak Stats" />
 
 </div>
 
-> ⚠️ **Nota:** Cambia `cristian-bru` por tu username real de GitHub.
 
 ---
 
