@@ -1,7 +1,8 @@
 <div align="center">
-
-
   <img src="brudev.png" alt="BruDev Banner" width="100%">
+</div>
+
+<div align="center">
 
 <!-- TRIFUERZA -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999&color=FFE066&background=00000000&center=true&vCenter=true&width=80&height=60&lines=%E2%96%B3%E2%96%B3%E2%96%B3" alt="Triforce" />
