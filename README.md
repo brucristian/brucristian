@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="brudev.png" alt="BruDev Banner" width="100%">
-</div>
+![BruDev Banner](brudev.png)
 
 <div align="center">
 
