@@ -1,5 +1,6 @@
-![BruDev Banner](./brudev.png)
-
+<div align="center">
+  <img src="" alt="BruDev Banner" width="100%">
+</div>
 <div align="center">
 
 <!-- TRIFUERZA -->
