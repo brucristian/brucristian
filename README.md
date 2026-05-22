@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="BruDev Banner" width="100%">
+  <img src="https://github.com/brucristian/brucristian/blob/main/Gemini_Generated_Image_xharguxharguxhar.png?raw=true" alt="BruDev Banner" width="100%">
 </div>
 <div align="center">
 
