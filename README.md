@@ -1,4 +1,4 @@
-![BruDev Banner](brudev.png)
+![BruDev Banner](./brudev.png)
 
 <div align="center">
 
