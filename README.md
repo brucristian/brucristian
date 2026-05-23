@@ -98,3 +98,11 @@
 ☕  Sistemas y Backend   (Java)      ███████░░░  70 XP
 🌐  Desarrollo Frontend  (JS/React)  ██████░░░░  60 XP
 🎨  UI / TS / Otros                  ████░░░░░░  40 XP
+
+Racha de Aventura
+💿 Tres Piedras Espirituales
+📟 Mapa de Contacto
+🌐 Cartagena, Colombia  ·  🗄️ Universidad de Cartagena  ·  ⌨️ Prog. Competitiva  ·  👁️‍🗨️ UI/UX  ·  🕸️ Desarrollo Web
+
+
+
