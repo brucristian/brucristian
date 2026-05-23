@@ -1,251 +1,135 @@
 <div align="center">
 
-  <img src="https://github.com/brucristian/brucristian/blob/main/Gemini_Generated_Image_xharguxharguxhar.png?raw=true" alt="BruDev Banner" width="100%">
-
-</div>
-
-<div align="center">
-
-
-
-<!-- TRIFUERZA -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999&color=FFE066&background=00000000&center=true&vCenter=true&width=80&height=60&lines=%E2%96%B3%E2%96%B3%E2%96%B3" alt="Triforce" />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=20&lines=SYSTEM+BOOT+%2F%2F+IDENTITY+MODULE+LOADED" alt="boot" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=42&duration=1&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&height=80&lines=BRU+CANO" alt="nombre" />
 
-
-<!-- NOMBRE COMPLETO EN DOS LÍNEAS -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=99999&color=FFE066&background=00000000&center=true&vCenter=true&multiline=true&width=680&height=70&lines=+BRU;BRU+CANO" alt="Nombre" />
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2500&pause=1000&color=7DD3A8&background=00000000&center=true&vCenter=true&width=680&height=30&lines=AVENTURERO+EN+ING.+SISTEMAS+%C2%B7+UDeC" alt="Subtitulo" />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=30&lines=INGENIERO+EN+SISTEMAS+%2F%2F+UDeC;ARQUITECTO+DE+SISTEMAS+%2F%2F+CARTAGENA+CO;CODIGO+COMO+ARTE+%2F%2F+LOGICA+COMO+FILOSOFIA" alt="subtitulo" />
 
 <br/>
 
-
-
-<!-- BADGES -->
-
-![Nivel](https://img.shields.io/badge/⚔_NIVEL-UDeC-c9a227?style=for-the-badge&labelColor=0a1628)
-
-![HP](https://img.shields.io/badge/♥_HP-MAX-cc2222?style=for-the-badge&labelColor=0a1628)
-
-![Rol](https://img.shields.io/badge/🛡_ROL-SYS_ENGINEER-1a3a8b?style=for-the-badge&labelColor=0a1628)
-
-
-
-<br/><br/>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1200&color=C9A227&background=00000000&center=true&vCenter=true&width=680&height=35&lines=%3E+%22Crear+con+ojo+de+artista%22+%E2%9C%A8;%3E+Tu+codigo%3A+valiente+como+heroe%2C+sabio+como+princesa." alt="Frase" />
-
-
+![](https://img.shields.io/badge/CLASE-SYS__ENGINEER-00FF41?style=flat-square&labelColor=000000&color=00FF41)
+![](https://img.shields.io/badge/FACCION-UDeC-00FF41?style=flat-square&labelColor=000000&color=00FF41)
+![](https://img.shields.io/badge/ORIGEN-CARTAGENA__CO-00FF41?style=flat-square&labelColor=000000&color=00FF41)
+![](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000&color=00FF41)
 
 </div>
 
-
-
 ---
 
-
-
 ```
-
- ┌─────────────────────────────────────────────┐
-
- │  ◈  PERFIL DEL HÉROE                        │
-
- ├─────────────────────────────────────────────┤
-
- │  > Clase    : Ingeniero en Sistemas          │
-
- │  > Guild    : Universidad de Cartagena       │
-
- │  > Filosofía: "Crear con ojo de artista" ✨  │
-
- │  > Espada   : Lógica  |  Escudo: Estética    │
-
- │  > Origen   : Cartagena, Colombia 📍         │
-
- └─────────────────────────────────────────────┘
-
+╔══════════════════════════════════════════════════════════════╗
+║  HEXFILE :: PERFIL DEL OPERATIVO                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  > ID           : BRU CANO                                   ║
+║  > CLASE        : Ingeniero en Sistemas                      ║
+║  > GUILD        : Universidad de Cartagena                   ║
+║  > FILOSOFÍA    : "Crear con ojo de artista" ✦               ║
+║  > ARMA         : Lógica  |  ESCUDO : Estética               ║
+║  > COORDENADAS  : Cartagena, Colombia  [-10.3910, -75.4794]  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-
-
 
 ---
-
-
-
-## ⚔️ Inventario Técnico
-
-
 
 <div align="center">
 
+## `// ARSENAL TÉCNICO`
 
+</div>
 
-### ⚔ Armas Principales
+```
+ARMAS PRIMARIAS ──────────────────────────────────────────────
+```
 
-
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,java,js&theme=dark" />
 
-
-
-| Tecnología | Nivel | XP |
-
+| TECNOLOGÍA | NIVEL | POTENCIA |
 |:---|:---:|:---|
+| ![C++](https://img.shields.io/badge/C++-00FF41?style=flat-square&logo=c%2B%2B&logoColor=black) | 8/10 | `████████░░` |
+| ![Java](https://img.shields.io/badge/Java-00FF41?style=flat-square&logo=openjdk&logoColor=black) | 7/10 | `███████░░░` |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=black) | 6/10 | `██████░░░░` |
 
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | 8/10 | `████████░░` |
-
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | 7/10 | `███████░░░` |
-
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 6/10 | `██████░░░░` |
-
-
-
-### 🛡 Equipamiento Secundario
-
-
+```
+EQUIPAMIENTO SECUNDARIO ──────────────────────────────────────
+```
 
 <img src="https://skillicons.dev/icons?i=react,html,css,ts&theme=dark" />
 
-
-
-| Tecnología | Nivel | XP |
-
+| TECNOLOGÍA | NIVEL | POTENCIA |
 |:---|:---:|:---|
-
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | 6/10 | `██████░░░░` |
-
-| ![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white) | 6/10 | `██████░░░░` |
-
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | 4/10 | `████░░░░░░` |
-
-
+| ![React](https://img.shields.io/badge/React-00FF41?style=flat-square&logo=react&logoColor=black) | 6/10 | `██████░░░░` |
+| ![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-00FF41?style=flat-square&logo=html5&logoColor=black) | 6/10 | `██████░░░░` |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=flat-square&logo=typescript&logoColor=black) | 4/10 | `████░░░░░░` |
 
 </div>
 
-
-
 ---
-
-
-
-## 📊 Estadísticas de Aventura
-
-
-
-```
-
-⚔  Lógica y Estructura  (C++)      ████████░░  80 XP
-
-☕  Sistemas y Backend   (Java)     ███████░░░  70 XP
-
-🌐  Desarrollo Frontend  (JS/React) ██████░░░░  60 XP
-
-🎨  UI / TS / Otros                 ████░░░░░░  40 XP
-
-```
-
-
 
 <div align="center">
 
+## `// ESTADÍSTICAS DE COMBATE`
 
+</div>
 
-<img height="155" src="https://github-readme-stats-salesp07.vercel.app/api?username=brucristian&show_icons=true&theme=midnight-purple&title_color=ffe066&icon_color=c9a227&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&rank_icon=github&hide_border=false" alt="GitHub Stats" />
+```
+⬡  LÓGICA Y ESTRUCTURA   [C++]        ████████░░  80 XP
+⬡  SISTEMAS Y BACKEND    [Java]       ███████░░░  70 XP  
+⬡  DESARROLLO FRONTEND   [JS/React]   ██████░░░░  60 XP
+⬡  UI / TS / OTROS                    ████░░░░░░  40 XP
+```
 
+<div align="center">
+
+<img height="155" src="https://github-readme-stats-salesp07.vercel.app/api?username=brucristian&show_icons=true&theme=chartreuse-dark&title_color=00FF41&icon_color=00FF41&text_color=CCCCCC&bg_color=000000&border_color=00FF41&rank_icon=github&hide_border=false" alt="GitHub Stats" />
 &nbsp;
-
-<img height="155" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=brucristian&layout=compact&theme=midnight-purple&title_color=ffe066&text_color=7dd3a8&bg_color=0a1628&border_color=c9a227&langs_count=6" alt="Top Langs" />
-
-
+<img height="155" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=brucristian&layout=compact&theme=chartreuse-dark&title_color=00FF41&text_color=CCCCCC&bg_color=000000&border_color=00FF41&langs_count=6" alt="Top Langs" />
 
 </div>
 
-
-
 ---
-
-
-
-## 🔥 Racha de Aventura
-
-
 
 <div align="center">
 
+## `// RACHA DE ACTIVIDAD`
 
-
-<img src="https://streak-stats.demolab.com?user=brucristian&theme=dark&background=0A1628&border=c9a227&stroke=c9a227&ring=ffe066&fire=ff6600&currStreakNum=ffe066&sideNums=7dd3a8&currStreakLabel=c9a227&sideLabels=7dd3a4&dates=3a6a4a&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Streak" />
-
-
+<img src="https://streak-stats.demolab.com?user=brucristian&theme=dark&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=CCCCCC&currStreakLabel=00FF41&sideLabels=00FF41&dates=555555&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 
 </div>
 
-
-
 ---
-
-
-
-## 🗝️ Tres Piedras Espirituales
-
-
 
 <div align="center">
 
-
-
-| 💚 Piedra del Bosque | 💙 Piedra del Fuego | ❤️ Piedra del Agua |
-
-|:---:|:---:|:---:|
-
-| **Armonía Visual** | **Arquitectura Lógica** | **Atención al Detalle** |
-
-| Interfaces limpias y modernas | Código estructurado y escalable | Equilibrio entre funcionalidad y estética |
-
-
+## `// NÚCLEO OPERATIVO`
 
 </div>
 
-
+```
+╔═══════════════════╦═══════════════════╦═══════════════════╗
+║  ⬡ NODO 01        ║  ⬡ NODO 02        ║  ⬡ NODO 03        ║
+║  ARMONÍA VISUAL   ║  ARQUITECTURA     ║  PRECISIÓN        ║
+╠═══════════════════╬═══════════════════╬═══════════════════╣
+║  Interfaces       ║  Código           ║  Equilibrio entre ║
+║  limpias y        ║  estructurado     ║  función y        ║
+║  modernas         ║  y escalable      ║  estética         ║
+╚═══════════════════╩═══════════════════╩═══════════════════╝
+```
 
 ---
 
-
-
-## 📡 Mapa de Contacto
-
-
-
 <div align="center">
 
+## `// MAPA DE CONTACTO`
 
-
-📍 **Cartagena, Colombia** &nbsp;·&nbsp; 🏛 **Universidad de Cartagena** &nbsp;·&nbsp; 🏁 **Prog. Competitiva** &nbsp;·&nbsp; 🎭 **UI/UX** &nbsp;·&nbsp; 🌐 **Desarrollo Web**
-
-
+`[ CARTAGENA, CO ]` &nbsp;·&nbsp; `[ UNIVERSIDAD DE CARTAGENA ]` &nbsp;·&nbsp; `[ PROG. COMPETITIVA ]` &nbsp;·&nbsp; `[ UI/UX ]`
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=10&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&height=20&lines=%2F%2F+PROCESS+TERMINATED+%7C+RETURN+CODE+0x00" alt="footer" />
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=1&pause=99999&color=3A6A4A&background=00000000&center=true&vCenter=true&width=500&height=25&lines=%E2%98%85+%E2%98%85+%E2%98%85+GAME+NOT+OVER+%E2%98%85+%E2%98%85+%E2%98%85" alt="footer" />
-
-
-
-</div> 
-
-¡
+</div>
