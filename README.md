@@ -1,40 +1,48 @@
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="33.33%" align="center">
-        <video src="https://github.com/brucristian/brucristian/blob/main/Dream%20goes%20on%20forever...%23nostalgia%20%2390saesthetic%20%23y2kfashion%20%23aiart%20%23midjourneyaiart%20(1).mp4?raw=true" width="100%" autoplay loop muted playsinline style="border-radius: 4px; border: 1px solid #7DD3A8;"></video>
-      </td>
-      <td width="33.33%" align="center">
-        <video src="https://github.com/brucristian/brucristian/blob/main/Dream%20goes%20on%20forever...%23nostalgia%20%2390saesthetic%20%23y2kfashion%20%23aiart%20%23midjourneyaiart.mp4?raw=true" width="100%" autoplay loop muted playsinline style="border-radius: 4px; border: 1px solid #7DD3A8;"></video>
-      </td>
-      <td width="33.33%" align="center">
-        <video src="https://github.com/brucristian/brucristian/blob/main/Dream%20goes%20on%20forever...%23nostalgia%20%2390saesthetic%20%23y2kfashion%20%23aiart%20%23midjourneyaiart%20(2).mp4?raw=true" width="100%" autoplay loop muted playsinline style="border-radius: 4px; border: 1px solid #7DD3A8;"></video>
-      </td>
-    </tr>
-  </table>
+
+  <img src="https://github.com/brucristian/brucristian/blob/main/Gemini_Generated_Image_xharguxharguxhar.png?raw=true" alt="BruDev Banner" width="100%">
+
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1&pause=99999&color=7DD3A8&background=00000000&center=true&vCenter=true&width=120&height=50&lines=%E2%96%B3+%E2%96%B3+%E2%96%B3" alt="Triforce Override" />
+
+
+<!-- TRIFUERZA -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999&color=FFE066&background=00000000&center=true&vCenter=true&width=80&height=60&lines=%E2%96%B3%E2%96%B3%E2%96%B3" alt="Triforce" />
+
+
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=99999&color=7DD3A8&background=00000000&center=true&vCenter=true&multiline=true&width=680&height=70&lines=+BRU;BRU+CANO" alt="Nombre" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=2500&pause=1000&color=A6FF00&background=00000000&center=true&vCenter=true&width=680&height=30&lines=AVENTURERO+EN+ING.+SISTEMAS+%C2%B7+UDeC" alt="Subtitulo" />
+
+<!-- NOMBRE COMPLETO EN DOS LÍNEAS -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=99999&color=FFE066&background=00000000&center=true&vCenter=true&multiline=true&width=680&height=70&lines=+BRU;BRU+CANO" alt="Nombre" />
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2500&pause=1000&color=7DD3A8&background=00000000&center=true&vCenter=true&width=680&height=30&lines=AVENTURERO+EN+ING.+SISTEMAS+%C2%B7+UDeC" alt="Subtitulo" />
+
+
 
 <br/>
 
-![Nivel](https://img.shields.io/badge/%E2%9A%94_NIVEL-UDeC-7DD3A8?style=flat-square&labelColor=0a1628&color=1e293b)
-![HP](https://img.shields.io/badge/%E2%99%A5_HP-MAX-ff3366?style=flat-square&labelColor=0a1628&color=1e293b)
-![Rol](https://img.shields.io/badge/%F0%9F%9B%A1_ROL-SYS_ENGINEER-A6FF00?style=flat-square&labelColor=0a1628&color=1e293b)
+
+
+<!-- BADGES -->
+
+![Nivel](https://img.shields.io/badge/⚔_NIVEL-UDeC-c9a227?style=for-the-badge&labelColor=0a1628)
+
+![HP](https://img.shields.io/badge/♥_HP-MAX-cc2222?style=for-the-badge&labelColor=0a1628)
+
+![Rol](https://img.shields.io/badge/🛡_ROL-SYS_ENGINEER-1a3a8b?style=for-the-badge&labelColor=0a1628)
+
+
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=3500&pause=1200&color=7DD3A8&background=00000000&center=true&vCenter=true&width=680&height=35&lines=%3E+%22Crear+con+ojo+de+artista%22+%E2%9C%A8;%3E+Tu+codigo%3A+valiente+como+heroe%2C+sabio+como+princesa." alt="Frase" />
-
-</div>
 
 
 
@@ -240,3 +248,4 @@
 
 </div> 
 
+¡
