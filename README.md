@@ -2,7 +2,7 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="33.33%" align="center">
-        <video src="[https://github.com/brucristian/brucristian/blob/main/Dream%20goes%20on%20forever...%23nostalgia%20%2390saesthetic%20%23y2kfashion%20%23aiart%20%23midjourneyaiart%20(1).mp4?raw=true" width="100%" autoplay loop muted playsinline style="border-radius: 4px; border: 1px solid #7DD3A8](https://github.com/brucristian/brucristian/blob/main/HEXBLADE...%23midjourneyaiart%20%23scifiart%20%23scififantasy%20%23interface%20%23characterdesign%20(5).jpg);"></video>
+        <video src="https://github.com/brucristian/brucristian/blob/main/Dream%20goes%20on%20forever...%23nostalgia%20%2390saesthetic%20%23y2kfashion%20%23aiart%20%23midjourneyaiart%20(1).mp4?raw=true" width="100%" autoplay loop muted playsinline style="border-radius: 4px; border: 1px solid #7DD3A8;"></video>
       </td>
       <td width="33.33%" align="center">
         <video src="https://github.com/brucristian/brucristian/blob/main/Dream%20goes%20on%20forever...%23nostalgia%20%2390saesthetic%20%23y2kfashion%20%23aiart%20%23midjourneyaiart.mp4?raw=true" width="100%" autoplay loop muted playsinline style="border-radius: 4px; border: 1px solid #7DD3A8;"></video>
@@ -49,7 +49,7 @@
 │  > Guild    : Universidad de Cartagena      │
 │  > Filosofía: "Crear con ojo de artista" ✨ │
 │  > Espada   : Lógica  |  Escudo: Estética   │
-│  > Origen   : Cartagena, Colombia 📍        │
+│  > Origen   : Cartagena, Colombia 🛰️        │
 └─────────────────────────────────────────────┘
       </pre>
     </td>
@@ -61,11 +61,11 @@
 
 ---
 
-## ⚔️ Inventario Técnico
+## ⚙️ Inventario Técnico
 
 <div align="center">
 
-### ⚔ Armas Principales
+### 🔌 Armas Principales
 
 <img src="https://skillicons.dev/icons?i=cpp,java,js&theme=dark" />
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-### 🛡 Equipamiento Secundario
+### 💽 Equipamiento Secundario
 
 <img src="https://skillicons.dev/icons?i=react,html,css,ts&theme=dark" />
 
@@ -94,15 +94,7 @@
 ## 📊 Estadísticas de Aventura
 
 ```text
-⚔  Lógica y Estructura  (C++)       ████████░░  80 XP
+⚙  Lógica y Estructura  (C++)       ████████░░  80 XP
 ☕  Sistemas y Backend   (Java)      ███████░░░  70 XP
-🌐  Desarrollo Frontend  (JS/React)  ██████░░░░  60 XP
-🎨  UI / TS / Otros                  ████░░░░░░  40 XP
-
-Racha de Aventura
-💿 Tres Piedras Espirituales
-📟 Mapa de Contacto
-🌐 Cartagena, Colombia  ·  🗄️ Universidad de Cartagena  ·  ⌨️ Prog. Competitiva  ·  👁️‍🗨️ UI/UX  ·  🕸️ Desarrollo Web
-
-
-
+🕸️  Desarrollo Frontend  (JS/React)  ██████░░░░  60 XP
+🎛️  UI / TS / Otros                  ████░░░░░░  40 XP
