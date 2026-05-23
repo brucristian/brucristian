@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/HEXBLADE____midjourneyaiart__scifiart__scififantasy__interface__characterdesign.jpg" width="100%" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=20&lines=SYSTEM+BOOT+%2F%2F+IDENTITY+MODULE+LOADED" alt="boot" />
 
 <br/>
@@ -38,7 +44,11 @@
 
 ## `// ARSENAL TÉCNICO`
 
+<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/HEXBLADE____midjourneyaiart__scifiart__scififantasy__interface__characterdesign__4_.jpg" width="80%" />
+
 </div>
+
+<br/>
 
 ```
 ARMAS PRIMARIAS ──────────────────────────────────────────────
@@ -95,7 +105,7 @@ EQUIPAMIENTO SECUNDARIO ──────────────────�
 
 <div align="center">
 
-## `// RACHA DE ACTIVIDAD`
+## `// SEÑAL DE VIDA`
 
 <img src="https://streak-stats.demolab.com?user=brucristian&theme=dark&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=CCCCCC&currStreakLabel=00FF41&sideLabels=00FF41&dates=555555&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 
@@ -105,9 +115,13 @@ EQUIPAMIENTO SECUNDARIO ──────────────────�
 
 <div align="center">
 
-## `// NÚCLEO OPERATIVO`
+## `// ENTIDADES DETECTADAS`
+
+<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/Artificial_Live____aiart__midjourneyaiart__insects_macro__scifiart__moth__2_.jpg" width="45%" />
 
 </div>
+
+<br/>
 
 ```
 ╔═══════════════════╦═══════════════════╦═══════════════════╗
