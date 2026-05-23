@@ -44,7 +44,7 @@
 
 ## `// ARSENAL TÉCNICO`
 
-<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/HEXBLADE____midjourneyaiart__scifiart__scififantasy__interface__characterdesign__4_.jpg" width="80%" />
+<img src="[https://raw.githubusercontent.com/brucristian/brucristian/main/HEXBLADE____midjourneyaiart__scifiart__scififantasy__interface__characterdesign__4_.jpg](https://github.com/brucristian/brucristian/blob/main/HEXBLADE...%23midjourneyaiart%20%23scifiart%20%23scififantasy%20%23interface%20%23characterdesign.jpg?raw=true)" width="80%" />
 
 </div>
 
