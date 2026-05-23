@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[[https://raw.githubusercontent.com/brucristian/brucristian/main/HEXBLADE____midjourneyaiart__scifiart__scififantasy__interface__characterdesign.jpg](https://github.com/brucristian/brucristian/blob/main/Artificial%20Live...%23aiart%20%23midjourneyaiart%20%23insects_macro%20%23scifiart%20%23moth%20(1).jpg?raw=true)](https://github.com/brucristian/brucristian/blob/main/HEXBLADE...%23midjourneyaiart%20%23scifiart%20%23scififantasy%20%23interface%20%23characterdesign.jpg?raw=true)" width="100%" />
+<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/foto1.jpg" width="100%" />
 
 </div>
 
@@ -44,11 +44,18 @@
 
 ## `// ARSENAL TÉCNICO`
 
-<img src="[https://raw.githubusercontent.com/brucristian/brucristian/main/HEXBLADE____midjourneyaiart__scifiart__scififantasy__interface__characterdesign__4_.jpg](https://github.com/brucristian/brucristian/blob/main/HEXBLADE...%23midjourneyaiart%20%23scifiart%20%23scififantasy%20%23interface%20%23characterdesign.jpg?raw=true)" width="80%" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/foto2.jpg" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/foto3.jpg" width="100%" />
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/>
 
 ```
 ARMAS PRIMARIAS ──────────────────────────────────────────────
@@ -117,7 +124,16 @@ EQUIPAMIENTO SECUNDARIO ──────────────────�
 
 ## `// ENTIDADES DETECTADAS`
 
-<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/Artificial_Live____aiart__midjourneyaiart__insects_macro__scifiart__moth__2_.jpg" width="45%" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/foto4.jpg" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/foto5.jpg" width="100%" />
+</td>
+</tr>
+</table>
 
 </div>
 
