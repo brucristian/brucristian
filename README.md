@@ -2,7 +2,7 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="33.33%" align="center">
-        <video src="https://github.com/brucristian/brucristian/blob/main/Dream%20goes%20on%20forever...%23nostalgia%20%2390saesthetic%20%23y2kfashion%20%23aiart%20%23midjourneyaiart%20(1).mp4?raw=true" width="100%" autoplay loop muted playsinline style="border-radius: 4px; border: 1px solid #7DD3A8;"></video>
+        <video src="[https://github.com/brucristian/brucristian/blob/main/Dream%20goes%20on%20forever...%23nostalgia%20%2390saesthetic%20%23y2kfashion%20%23aiart%20%23midjourneyaiart%20(1).mp4?raw=true" width="100%" autoplay loop muted playsinline style="border-radius: 4px; border: 1px solid #7DD3A8](https://github.com/brucristian/brucristian/blob/main/HEXBLADE...%23midjourneyaiart%20%23scifiart%20%23scififantasy%20%23interface%20%23characterdesign%20(5).jpg);"></video>
       </td>
       <td width="33.33%" align="center">
         <video src="https://github.com/brucristian/brucristian/blob/main/Dream%20goes%20on%20forever...%23nostalgia%20%2390saesthetic%20%23y2kfashion%20%23aiart%20%23midjourneyaiart.mp4?raw=true" width="100%" autoplay loop muted playsinline style="border-radius: 4px; border: 1px solid #7DD3A8;"></video>
