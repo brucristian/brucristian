@@ -37,19 +37,6 @@
 </div>
 
 
-<!-- BADGES -->
-
-![Nivel](https://img.shields.io/badge/⚔_NIVEL-UDeC-c9a227?style=for-the-badge&labelColor=0a1628)
-
-![HP](https://img.shields.io/badge/♥_HP-MAX-cc2222?style=for-the-badge&labelColor=0a1628)
-
-![Rol](https://img.shields.io/badge/🛡_ROL-SYS_ENGINEER-1a3a8b?style=for-the-badge&labelColor=0a1628)
-
-
-
-<br/><br/>
-
-
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1200&color=C9A227&background=00000000&center=true&vCenter=true&width=680&height=35&lines=%3E+%22Crear+con+ojo+de+artista%22+%E2%9C%A8;%3E+Tu+codigo%3A+valiente+como+heroe%2C+sabio+como+princesa." alt="Frase" />
 
