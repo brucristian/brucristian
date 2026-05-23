@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/brucristian/brucristian/main/HEXBLADE____midjourneyaiart__scifiart__scififantasy__interface__characterdesign.jpg" width="100%" />
+<img src="[https://raw.githubusercontent.com/brucristian/brucristian/main/HEXBLADE____midjourneyaiart__scifiart__scififantasy__interface__characterdesign.jpg](https://github.com/brucristian/brucristian/blob/main/Artificial%20Live...%23aiart%20%23midjourneyaiart%20%23insects_macro%20%23scifiart%20%23moth%20(1).jpg?raw=true)" width="100%" />
 
 </div>
 
